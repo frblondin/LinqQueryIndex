@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqQueryIndex", "LinqQueryIndex\LinqQueryIndex.csproj", "{CFB9218E-AF39-47F6-9793-F3F758821706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqQueryIndex.Tests", "LinqQueryIndex.Tests\LinqQueryIndex.Tests.csproj", "{6AF15647-B997-4528-8241-EF1595C3AE70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FAD0FA85-A7CB-4C76-BBCB-B7513192408C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB9218E-AF39-47F6-9793-F3F758821706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB9218E-AF39-47F6-9793-F3F758821706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB9218E-AF39-47F6-9793-F3F758821706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB9218E-AF39-47F6-9793-F3F758821706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF15647-B997-4528-8241-EF1595C3AE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF15647-B997-4528-8241-EF1595C3AE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF15647-B997-4528-8241-EF1595C3AE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF15647-B997-4528-8241-EF1595C3AE70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E2DC7EC-6981-4A24-A3B6-286634BCF489}
+	EndGlobalSection
+EndGlobal
